@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "知课"
+    },
+    {
+      "name": "module_desc",
+      "value": "大学生课表查看器"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "查看大学课程安排"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "知课"
+    }
+  ]
+}
